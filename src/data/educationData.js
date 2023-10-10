@@ -6,18 +6,20 @@ export const educationData = [
     startYear: '2017',
     endYear: '2022',
   },
+
   {
     id: 2,
-    institution: 'BAF Shaheen College',
+    institution: 'Gobra Mitra College',
     course: 'Higher Secondary School Certificate',
-    startYear: '2013',
-    endYear: '2015',
+    startYear: '2014',
+    endYear: '2016',
   },
+
   {
     id: 3,
-    institution: 'Government Muslim High School',
+    institution: 'Narail Government High School',
     course: 'Secondary School Certificate',
-    startYear: '2011',
-    endYear: '2013',
+    startYear: '2012',
+    endYear: '2014',
   },
 ];

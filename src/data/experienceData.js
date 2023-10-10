@@ -6,17 +6,19 @@ export const experienceData = [
     startYear: 'December 2020',
     endYear: 'Janujary 2021',
   },
+
   {
     id: 2,
-    company: 'Pioneer Programme',
-    jobtitle: 'Senior Physics Instructor',
-    startYear: 'january 2018',
-    endYear: 'March 2020 2021',
+    company: 'sejuty Cultural Object',
+    jobtitle: 'joint secretary',
+    startYear: 'january 2020',
+    endYear: 'March 2022',
   },
+
   {
     id: 3,
     company: 'Engineering Student Association,HSTU',
-    jobtitle: 'Publication Secretary',
+    Position: 'Publication Secretary',
     startYear: 'july 2018',
     endYear: 'july 2019',
   },
