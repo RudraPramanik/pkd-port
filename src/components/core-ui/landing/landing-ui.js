@@ -4,6 +4,7 @@ import Typed from 'react-typed';
 import { headerData } from '../../../data/headerData';
 import './landing.css';
 import rudra from '../../../assets/rudra.jpg';
+import pranto from '../../../assets/pranto.jpg';
 
 import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { contactsData } from '../../../data/contactsData';
@@ -56,7 +57,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
           </div>
         </div>
         <img
-          src={rudra}
+          src={pranto}
           alt=""
           className="landing--img"
           style={{
